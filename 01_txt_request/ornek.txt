@@ -1,3 +1,11 @@
+
 Bu bir deneme verisidir.
 
 Bu bir braanch denemesidir
+
+Mehmetcan deneme verisi
+Bu bir deneme verisidir. Hikmet bu txt dosyasına veri ekledi, branch açıp yeni veri ekledi.
+test from Ekin
+Furkan ekledi. 
+Yeni satır.
+
