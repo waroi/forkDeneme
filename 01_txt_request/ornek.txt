@@ -3,3 +3,4 @@ Bu bir deneme verisidir. Hikmet bu txt dosyasına veri ekledi, branch açıp yen
 test from Ekin
 Furkan ekledi. 
 Yeni satır.
+Ela ekledi
