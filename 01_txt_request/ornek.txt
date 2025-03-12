@@ -1,1 +1,3 @@
 Bu bir deneme verisidir. Hikmet bu txt dosyasına veri ekledi, branch açıp yeni veri ekledi.
+Furkan ekledi. 
+Yeni satır.
