@@ -5,6 +5,7 @@ class Request {
   async get() {
     const response = await fetch(this.url);
     const responseData = await response.json();
+    console.log(responseData);
     return responseData;
   }
 }
